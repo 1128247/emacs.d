@@ -1,0 +1,19 @@
+# Backup files
+*~
+# Auto-save files
+.#*
+# Tramp files
+*#*
+# Compilation files
+*.elc
+# Emacs session files
+.session
+# Recent files
+recentf
+# Custom configuration files
+.emacs.d/custom.el
+# Org-mode files
+*.org_archive
+# Package directories
+.elpa/
+
